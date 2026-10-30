@@ -1,10 +1,14 @@
 # Browser Scripts Index
 
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
+
 An index of browser **userscripts** I maintain — small JavaScript bits
 that run inside [Tampermonkey](https://www.tampermonkey.net/),
 [Violentmonkey](https://violentmonkey.github.io/), or
 [Greasemonkey](https://www.greasespot.net/) to fix, declutter, or
 augment specific websites.
+
+**Last Updated:** October 2026
 
 Each entry below points at the source repo, where you'll find the
 script itself, screenshots, and a one-click install link.
